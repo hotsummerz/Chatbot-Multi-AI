@@ -14,7 +14,7 @@ A real-time AI chatbot application with custom character creation and multi-mode
 
 ### Character Creation
 ![Create Character](Screenshots/create-character.png)
-*Create custom characters with system prompts and Greeting Message (optional)*
+*Create custom characters*
 
 ## Features
 
@@ -42,7 +42,7 @@ Hover over any AI message to:
 - **Branching** - Start new conversation paths from any user message
 - **Chat modes** - Switch between Casual, Roleplay, and Story modes
   - 💬 **Casual Chat** - Friendly, natural conversation
-  - 🎭 **Roleplay** - Strict character interaction with actions in asterisks
+  - 🎭 **Roleplay** - Strict character interaction with actions
   - 📖 **Story** - Narrative storytelling with world-building and plot progression
 - **Language matching** - AI responds in the same language user write in
 
