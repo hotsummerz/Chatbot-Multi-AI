@@ -2,6 +2,20 @@
 
 A real-time AI chatbot application with custom character creation and multi-model support.
 
+## Screenshots
+
+### Main Interface
+![Chat Interface](screenshots/roomchat.png)
+*chat interface with character sidebar, streaming responses, and markdown rendering*
+
+### Multi-Model Support
+![Model Selection](screenshots/multi-model.png)
+*Choose from 5 AI models with automatic fallback when rate-limited*
+
+### Character Creation
+![Create Character](screenshots/create-character.png)
+*Create custom characters*
+
 ## Features
 
 ### Core Chat
