@@ -6,7 +6,7 @@ A real-time AI chatbot application with custom character creation and multi-mode
 
 ### Main Interface
 ![Chat Interface](screenshots/roomchat.png)
-*chat interface with character sidebar, streaming responses, and markdown rendering*
+*iMessage-style chat interface with character sidebar, streaming responses, and markdown rendering*
 
 ### Multi-Model Support
 ![Model Selection](screenshots/multi-model.png)
@@ -14,7 +14,7 @@ A real-time AI chatbot application with custom character creation and multi-mode
 
 ### Character Creation
 ![Create Character](screenshots/create-character.png)
-*Create custom characters*
+*Create custom characters with searchable emoji picker and system prompts*
 
 ## Features
 
@@ -130,6 +130,12 @@ npm run dev
 Press `Ctrl+Shift+B` in VSCode to launch both servers automatically.
 
 The application will be available at `http://localhost:5173`
+
+## Credits
+
+Inspired by Character.ai
+
+Made with Qwen3.7-Max (qoder)
 
 ## License
 
